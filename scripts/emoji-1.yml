@@ -33,8 +33,6 @@ matches:
     replace: "https://raw.githubusercontent.com/MCUniversity/espanso-emoji/main/emoji-dir/steam.png"
   - trigger: "::steve"
     replace: "https://raw.githubusercontent.com/MCUniversity/espanso-emoji/main/emoji-dir/steve_no_like_u.png"
-  - trigger: "::trap"
-    replace: "https://raw.githubusercontent.com/MCUniversity/espanso-emoji/main/emoji-dir/trap.png"
   - trigger: "::twitter"
     replace: "https://raw.githubusercontent.com/MCUniversity/espanso-emoji/main/emoji-dir/twitter.png"
   - trigger: "::upvote"
